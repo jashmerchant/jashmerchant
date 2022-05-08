@@ -4,7 +4,7 @@
   
   - 🔭 My primary coding languages - **Javascript, Python**
   - 🌱 I’m currently learning - **ReactJS**
-  - 🚩 2022 Goal - **To be an even better developer**
+  - 🚩 2022 Goal - **To be a better developer**
 
 ### 🛠 &nbsp;Tech Stack
 
