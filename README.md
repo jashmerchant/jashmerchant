@@ -3,7 +3,7 @@
   <img align="right" alt="GIF" src="coding-gif.gif" width="450" height="320" />
   
   - 🔭 My primary coding languages - **Javascript, Python**
-  - 🌱 I’m currently learning - **ReactJS**
+  - 🌱 I’m currently learning - **Unit testing**
   - 🚩 2023 Goal - **Be a better developer**
 
 ### 🛠 &nbsp;Tech Stack
