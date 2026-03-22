@@ -1,11 +1,75 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://www.jashmerchant.me/">Jash Merchant</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jash Merchant</h1>
+<p align="center">
+  SDE at AWS Bedrock • MS in Computer Science at NYU
+</p>
 
-  <img align="right" alt="GIF" src="coding-gif.gif" width="450" height="320" />
-  
-  - 🔭 My primary coding languages - **Javascript, Python**
-  - 🌱 I’m currently learning - **Unit testing**
-  - 🚩 2023 Goal - **Be a better developer**
 
-### 🛠 &nbsp;Tech Stack
+<p align="center">
+  I enjoy building practical software across cloud, full-stack web, machine learning, and Android.
+  Lately, I’ve been exploring Kotlin, and modern Android app development.
+</p>
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS' width="50" height="50"> <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' alt='Javascript' width="50" height="45"> <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='ReactJS' width="50" height="45"> <img src='https://cdn.worldvectorlogo.com/logos/nodejs-2.svg' alt='NodeJS' height='45' width='50' > <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' alt='ExpressJS' height='50' width='50'> <img src='https://cdn.worldvectorlogo.com/logos/npm.svg' alt='npm' height='35' width='50'> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' atl='MySql' height='50' widhth='50'><img src='https://cdn.worldvectorlogo.com/logos/python-5.svg' height='50' width='50'>
+<p align="center">
+  <a href="https://github.com/jashmerchant">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jash-j-merchant/">LinkedIn</a>
+</p>
+
+---
+
+## About Me
+
+- Building software with a focus on clean user experiences and solid engineering fundamentals
+- Currently exploring Android development with Kotlin and Jetpack Compose
+- Background across AWS, full-stack apps, and applied ML projects
+- Open to connecting on software engineering, mobile, cloud, and product-building
+
+---
+
+## Tech I Work With
+
+**Languages**
+- Java
+- Kotlin
+- Python
+- JavaScript
+
+**Areas I Enjoy**
+- Android development
+- Full-stack web apps
+- Cloud and AWS
+- Machine learning projects
+- UI-focused side projects
+
+---
+
+## Featured Projects
+
+### [LearnAndroid](https://github.com/jashmerchant/LearnAndroid)
+A recent Android learning repo where I’m building hands-on projects in Kotlin and Jetpack Compose.
+
+### [aws-roommate-finder](https://github.com/jashmerchant/aws-roommate-finder)
+A cloud-focused app project showing my interest in building practical software with AWS.
+
+### [nlp-photo-album](https://github.com/jashmerchant/nlp-photo-album)
+A Python-based ML/NLP project that reflects my interest in applied machine learning.
+
+### [portfolio](https://github.com/jashmerchant/portfolio)
+A personal portfolio project showcasing my web development work and profile.
+
+---
+
+## What I'm Learning Now
+
+- Jetpack Compose
+- Android app architecture
+- Better testing habits
+- Building polished end-to-end side projects
+
+---
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jash-j-merchant/)
+- [GitHub](https://github.com/jashmerchant)
+
+Thanks for stopping by.
