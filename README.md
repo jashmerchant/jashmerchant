@@ -58,15 +58,6 @@ A personal portfolio project showcasing my web development work and profile.
 
 ---
 
-## What I'm Learning Now
-
-- Jetpack Compose
-- Android app architecture
-- Better testing habits
-- Building polished end-to-end side projects
-
----
-
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jash-j-merchant/)
